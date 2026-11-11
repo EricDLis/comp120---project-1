@@ -8,13 +8,7 @@ Compile the program with gcc tictactoe.c -o tictactoe, then start it with ./tict
 
 How to play
 
-You are O and you always go first. The computer is X. The squares on the board are numbered 0 to 8, like this:
-
- 0 | 1 | 2
----+---+---
- 3 | 4 | 5
----+---+---
- 6 | 7 | 8
+You are O and you always go first. The computer is X. The squares on the board are numbered 0 to 8
 
 On your turn, type the number of an empty square and press Enter. You win by getting three of your symbols in a row, going across, down, or diagonally. If all 9 squares are full and nobody has won, the game is a draw. After each game, type y to play again or q to quit.
 
